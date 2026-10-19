@@ -3,3 +3,5 @@ pandas
 soundfile
 faster-whisper==1.2.1
 av==16.0.1
+torch
+transformers
